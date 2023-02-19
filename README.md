@@ -7,6 +7,6 @@ Machine learning Value Estimator for Real Estate agency (pandas + sklearn + nump
 3. train_model.py - adjust it & train your model on your dataset.
 4. trained_house_classifier_model.pkl - I already have trained the model for you, you can use it to save your GPU/CPU resources.
 
->. Despite the project is for real estate agency, you can use the same approach to solve any kind of value estimation problem with machine learning.
+> Despite the project is for real estate agency, you can use the same approach to solve any kind of value estimation problem with machine learning.
 If you want to get some advanced features or adjested working project for your needs, don't hesistate to text me.
 
